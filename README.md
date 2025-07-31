@@ -109,15 +109,6 @@ python transform_retail_data.py
 ```
 This will execute the ETL process and load the data into your Azure SQL Database.
 
-## Power BI Dashboard Showcase
-
-*(This is a placeholder section. You should replace the text below with screenshots of your actual Power BI dashboard.)*
-
-The final dashboard provides key insights into sales performance, customer behavior, and product trends.
-
-**Screenshot of Main KPI Dashboard:**
-*Caption: The main dashboard highlights total revenue, orders, and active customers.*
-
 ## Future Improvements
 
 - **Full Automation**: Implement the Azure Data Factory pipeline to run the Python script on a daily schedule.
